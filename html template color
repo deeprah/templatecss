@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="header">
+       
+        <a class="hf">BR</a>
+        <a class="hf1">architects</a>
+        <a class="hf2">projects</a>
+        <a class="hf2">about</a>
+        <a class="hf2">contacts</a>
+    </div>
+    <img src="architect.jpg">
+    <div id="projects">
+       <a id="hf3"> projects</a>
+    </div>
+    <div class="main">
+    <div id="hf4" class="box1">
+        <div id="hf5">summer</div>
+        
+    </div>
+    <div id="hf4" class="box2" >
+        <div id="hf5">summer</div>
+    </div>
+    <div id="hf4" class="box3">
+        <div id="hf5">summer</div>
+    </div>
+    <div id="hf4" class="box4">
+        <div id="hf5">summer</div>
+    </div>
+    </div>
+    <div class="main1">
+        <div id="f5" class="box5">
+            <div id="f6">summer</div>
+            
+        </div>
+        <div id="f5" class="box6" >
+            <div id="f6">summer</div>
+        </div>
+        <div id="f5" class="box7">
+            <div id="f6">summer</div>
+        </div>
+        <div id="f5" class="box8">
+            <div id="f6">summer</div>
+        </div>
+        </div>
+        <div id="about">About</div>
+
+<div class="paragarph">
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div>
+<div class="main">
+    <div id="div" >
+        <div class="outer" id="div1"></div>
+        <div class="inner">
+            <div class="bx" id="bxs1"><h3>John Doe</h3></div>
+            <div class="bx" id="bxs2">CEO & Founder</div>
+            <div class="bx" id="bx3">Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</div>
+            <div class="bx" id="bx4">
+                <input type="text" placeholder="contact" id="input">
+            </div>
+        </div>
+    </div>
+    <div id="div" >
+        <div class="outer" id="div2"></div>
+        <div class="inner">
+            <div class="bx" id="bxs1"><h3>John Doe</h3></div>
+            <div class="bx" id="bxs2">CEO & Founder</div>
+            <div class="bx" id="bx3">Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</div>
+            <div class="bx" id="bx4">
+                <input type="text" placeholder="contact" id="input">
+            </div>
+        </div>
+    </div>
+    <div id="div" >
+        <div class="outer" id="div3"></div>
+        <div class="inner">
+            <div class="bx" id="bxs1"><h3>John Doe</h3></div>
+            <div class="bx" id="bxs2">CEO & Founder</div>
+            <div class="bx" id="bx3">Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</div>
+            <div class="bx" id="bx4">
+                <input type="text" placeholder="contact" id="input">
+            </div>
+        </div>
+    </div>
+    <div id="div" >
+        <div class="outer" id="div4"></div>
+        <div class="inner">
+            <div class="bx" id="bxs1"><h3>John Doe</h3></div>
+            <div class="bx" id="bxs2">CEO & Founder</div>
+            <div class="bx" id="bx3">Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</div>
+            <div class="bx" id="bx4">
+                <input type="text" placeholder="contact" id="input">
+            </div>
+        </div>
+    </div>
+    </div>
+    <div class="footer">
+        <div class="foot" id="foot1">Contact</div>
+        <div class="foot" id="foot2">Lets get in touch and talk about your next project.</div>
+        <div class="foot" id="foot3"><input type="text" placeholder="Name" id="fot1"></div>
+        <div class="foot" id="foot4"><input type="text" placeholder="Email" id="fot1"></div>
+        <div class="foot" id="foot5"><input type="text" placeholder="Subject" id="fot1"></div>
+        <div class="foot" id="foot6"><input type="text" placeholder="Comment" id="fot1"></div>
+    </div>
+</div>
+    <div id="msg"> SEND MESSAGE</div>
+    <img src="map.jpg" id="map">
+    <div class="foterhead">
+        <a id="d1">Powered By</a>
+        <a id="d2">w3.css</a>
+    </div>
+    <div class="image"></div>
+    
+</body>
+</html>
